@@ -35,10 +35,3 @@ El proyecto utiliza las siguientes dependencias:
 
 7. [SweetAlert2](https://sweetalert2.github.io/)
    - Librería para mostrar alertas modales bonitas y personalizables.
-
-## Instalación
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
